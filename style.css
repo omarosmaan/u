@@ -64,7 +64,7 @@ section {
 .main h2 span {
     display: inline-block;
     margin-top: 10px;
-    color: #4e9eff;
+    color: white;
     text-shadow: 0 0 25px rgb(30, 30, 213), 0 0 5px darkblue;
     font-size: 3em;
     font-weight: 600;
