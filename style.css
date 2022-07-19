@@ -163,6 +163,7 @@ section {
     border: 1px solid #fff;
     min-height: 14em;
     width: 23em;
+    box-shadow: 0 5px 25px rgba(0, 4, 255, 0.447);
     overflow: hidden;
     border-radius: 10px;
     margin: 20px;
