@@ -151,7 +151,7 @@ section {
 }
 
 .projects {
-    background-color: #000016;
+    background: url(./image/background.jpg) ;
 }
 
 .projects .content{
@@ -233,7 +233,7 @@ section {
         -webkit-border-radius: 12px}
 
 .footer {
-    background-color: #1515d7;
+    background: url(./image/background.jpg);
     color: #fff;
     padding: 2em;
     display: flex;
