@@ -200,12 +200,15 @@ section {
 }
 
 .more-details {
+     border-radius: 7px;
+    background-color: #3a6cf4;
     text-decoration: none;
-    color: #3a6cf4;
+    color: #ffffff;
+    padding: 0.14rem;
 }
 
 .more-details:hover {
-    color: #601cfc;
+    color: #b59fe8c;
 }
 
 .contact .icon{
